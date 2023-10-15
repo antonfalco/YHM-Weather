@@ -11,6 +11,9 @@ Note:
 I had already made the entire month-by-month breakdown onto separate spreadsheets before finding a database that allows you to pick individual dates for the entire year.
 I plan to address this going forward, but I'll include the project as is for the moment. 
 
+This is the link to the data if you'd prefer a full year of data and editing the dates instead:
+https://hamilton.weatherstats.ca/download.html
+
 I've also written a blog post breaking down the differences in climatology vs the 2023 year using these very plots and my meteorology background:
 https://antonfalco.substack.com/p/hamilton-ontario-climatology
 
